@@ -1,0 +1,147 @@
+body {
+    background-color: #1B262C;
+    margin: 0;
+    text-align: center;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #FFCFDF;
+    
+}
+h1{
+
+    margin: 50px auto 0px auto;
+    color: #FF9999;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 3;
+}
+.top-container{
+    background-color: #495C83;
+    position: relative;
+    padding-top: 100px;
+    text-decoration: none;
+}
+
+.middle-container{
+    margin: 100px 0 100px 0;
+}
+.bottom-container{
+    background-color: #FF9999;
+    padding: 50px 0 20px;
+}
+h2 {
+   font-size: 2rem;
+   font-weight: normal;
+   padding-bottom: 10px;
+}
+.h_2 {
+    color: #FF9999;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.top_cloud{
+    position: absolute;
+    right: 100px;
+    top: 40px;
+}
+.bottom_cloud {
+   position: absolute;
+   left: 100px;
+   bottom: 250px;
+}
+
+.hello {
+    color: white;
+}
+.my_skills{
+    color: white;
+}
+
+p{
+    font-family: fantasy;
+    line-height: 2;
+}
+h3{
+    color: #FF9999;
+}
+a{
+    color: #FF9999;   
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skills_img {
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 5px;
+}
+.code-img{
+    float: right;
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+.change{
+    color: white;
+}
+hr{
+    border: #FF9999;
+    width: 4%;
+    border-bottom: none;
+    margin: 100px auto 100px auto;
+    border-style: dotted none none;
+}
+.contact-class{
+    width: 40%;
+    margin: 40px auto 60px;
+    color: white;
+}
+.btn {
+    background: #FF9999;
+    background-image: -webkit-linear-gradient(top, #FF9999, #FF9999);
+    background-image: -moz-linear-gradient(top, #FF9999, #FF9999);
+    background-image: -ms-linear-gradient(top, #FF9999, #FF9999);
+    background-image: -o-linear-gradient(top, #FF9999, #FF9999);
+    background-image: linear-gradient(to bottom, #FF9999, #FF9999);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 2px;
+    text-shadow: 1px 0px 0px #FF9999;
+    font-family: Arial;
+    color: #1B262C;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #FF9999;
+    background-image: -webkit-linear-gradient(top, #FF9999, #edf0f2);
+    background-image: -moz-linear-gradient(top, #FF9999, #edf0f2);
+    background-image: -ms-linear-gradient(top, #FF9999, #edf0f2);
+    background-image: -o-linear-gradient(top, #FF9999, #edf0f2);
+    background-image: linear-gradient(to bottom, #FF9999, #edf0f2);
+    text-decoration:none;
+  }
+  a{
+    color: white;
+    font-family: 'Sacramento', cursive;
+    margin: 10px 0px 20px 0px;
+    text-decoration: none;
+    
+  }
+  a:hover{
+    color: black ;
+  }
+  .copyright{
+    color: white;
+    font-family:cursive;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  .float{
+    float: inline-end;
+  }
